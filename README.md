@@ -1,10 +1,10 @@
-﻿# Hi, I'm Sheetal Sindhu <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+﻿## Hi, I'm Sheetal Sindhu <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 #### I'm a front-end developer with UI/UX design skills who is dedicated and conscientious with a great passion for technology and software development. Always keen to learn new things with a positive approach. I love to build user interfaces and develop them. I strongly believe a deep user understanding leads to the most innovative products that can create a lot of impact on people's lives.
 
 <hr>
 
-<h2>Languages</h2>
+<h2>Languages 💬</h2>
 <p>
 <img
                 src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;<img
@@ -17,7 +17,7 @@
      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;
      <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />&nbsp;
-  <h2>Tools</h2>
+  <h2>Tools 🧰</h2>
 <p>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />&nbsp;
@@ -36,7 +36,7 @@
 </p> -->
 <hr>
 
-<h4>📫 Reach me on</h4>
+<h4>Reach me 💌</h4>
 <p>
   <a target="_blank"href="https://www.linkedin.com/in/sheetalsindhu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a target="_blank"href="https://twitter.com/SheetalSindhuu"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
