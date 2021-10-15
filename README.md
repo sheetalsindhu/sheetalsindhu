@@ -1,7 +1,7 @@
-#### Hi, I'm Sheetal Sindhu, a front-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with UI/UX design skills who is dedicated and conscientious with a great passion for technology and software development. Always keen to learn new things with a positive approach. I love to build user interfaces and develop them. I strongly believe a deep user understanding leads to the most innovative products that can create a lot of impact on people's lives.
+```Hi, I'm Sheetal Sindhu 🌻, a front-end developer``` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  ```with UI/UX design skills who is dedicated and conscientious with a great passion for technology and software development. Always keen to learn new things with a positive approach. I love to build user interfaces and develop them. I strongly believe a deep user understanding leads to the most innovative products that can create a lot of impact on people's lives.```
 
 
-<h2>Languages 💬</h2>
+<h4>Languages 💬</h4>
 <p>
 <img
                 src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;<img
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />&nbsp;
      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />&nbsp;
-  <h2>Tools 🧰</h2>
+  <h4>Software 🧰</h4>
 <p>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />&nbsp;
@@ -30,7 +30,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sheetal Sindhu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sheetalsindhu&theme=github-dark"/>
     </a>
 </p> -->
-<hr>
+
 
 <h4>Reach me 💌</h4>
 <p>
@@ -39,3 +39,4 @@
   </a>&nbsp;<a href="mailto:sheetalsindhu99@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;<a href="https://dribbble.com/uiuxsheetal"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>&nbsp;<a href="https://medium.com/@sheetalsindhu"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;
 </p>
+
