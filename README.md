@@ -1,8 +1,5 @@
-﻿## Hi, I'm Sheetal Sindhu <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+#### Hi, I'm Sheetal Sindhu, a front-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with UI/UX design skills who is dedicated and conscientious with a great passion for technology and software development. Always keen to learn new things with a positive approach. I love to build user interfaces and develop them. I strongly believe a deep user understanding leads to the most innovative products that can create a lot of impact on people's lives.
 
-#### I'm a front-end developer with UI/UX design skills who is dedicated and conscientious with a great passion for technology and software development. Always keen to learn new things with a positive approach. I love to build user interfaces and develop them. I strongly believe a deep user understanding leads to the most innovative products that can create a lot of impact on people's lives.
-
-<hr>
 
 <h2>Languages 💬</h2>
 <p>
@@ -15,7 +12,6 @@
                 src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />&nbsp;
      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;
-     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />&nbsp;
   <h2>Tools 🧰</h2>
 <p>
