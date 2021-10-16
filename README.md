@@ -23,6 +23,8 @@
         </p>
       
 <!-- <hr> -->
+<!-- <h4> Most Used 💌</h4>
+<p> -->
 
 <!-- <h3>My Github Stats</h3>
 <p>
@@ -39,4 +41,7 @@
   </a>&nbsp;<a href="mailto:sheetalsindhu99@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;<a href="https://dribbble.com/uiuxsheetal"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>&nbsp;<a href="https://medium.com/@sheetalsindhu"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheetalsindhu&layout=compact)](https://github.com/sheetalsindhu/github-readme-stats)
+
 
