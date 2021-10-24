@@ -1,5 +1,8 @@
 ```Hi, I'm Sheetal Sindhu 🌻, a front-end developer``` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  ```with UI/UX design skills who is dedicated and conscientious with a great passion for technology and software development. Always keen to learn new things with a positive approach. I love to build user interfaces and develop them. I strongly believe a deep user understanding leads to the most innovative products that can create a lot of impact on people's lives.```
 
+![](https://komarev.com/ghpvc/?username=your-github-sheetalsindhu&style=flat-square&label=Profile+Views)
+
+
 
 <h4>Languages 💬</h4>
 <p>
