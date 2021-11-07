@@ -1,6 +1,7 @@
 ```Hi, I'm Sheetal Sindhu 🌻, a front-end developer``` <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  ```with UI/UX design skills who is dedicated and conscientious with a great passion for technology and software development. Always keen to learn new things with a positive approach. I love to build user interfaces and develop them. I strongly believe a deep user understanding leads to the most innovative products that can create a lot of impact on people's lives.```
 
 ![](https://komarev.com/ghpvc/?username=your-github-sheetalsindhu&style=flat-square&label=Profile+Views)
+<img src="https://badges.pufler.dev/Commits/yearly/sheetalsindhu" />
 
 
 
@@ -36,6 +37,10 @@
     </a>
 </p> -->
 
+<hr/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheetalsindhu&layout=compact)](https://github.com/sheetalsindhu/github-readme-stats)
+
 
 <h4>Reach me 💌</h4>
 <p>
@@ -45,6 +50,6 @@
   </a>&nbsp;<a href="https://dribbble.com/uiuxsheetal"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>&nbsp;<a href="https://medium.com/@sheetalsindhu"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheetalsindhu&layout=compact)](https://github.com/sheetalsindhu/github-readme-stats)
+
 
 
