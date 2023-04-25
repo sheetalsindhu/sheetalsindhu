@@ -43,7 +43,8 @@
   <a target="_blank"href="https://www.linkedin.com/in/sheetalsindhu/"><img src="https://img.shields.io/badge/LI-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a target="_blank"href="https://twitter.com/SheetalSindhuu"><img src="https://img.shields.io/badge/TW-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;<a href="mailto:sheetalsindhu99@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/MAIL-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;<a href="https://dribbble.com/uiuxsheetal"><img src="https://img.shields.io/badge/DR-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>&nbsp;<a href="https://medium.com/@sheetalsindhu"><img src="https://img.shields.io/badge/ME-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;
+  </a>&nbsp;<a href="https://dribbble.com/uiuxsheetal"><img src="https://img.shields.io/badge/DR-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>&nbsp;
+<!--   <a href="https://medium.com/@sheetalsindhu"><img src="https://img.shields.io/badge/ME-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp; -->
 </p>
 
 
