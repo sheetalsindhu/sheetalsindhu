@@ -4,7 +4,7 @@
 <img src="https://badges.pufler.dev/Commits/yearly/sheetalsindhu" />
 
 
-<h4>Languages 💬</h4>
+<!-- <h4>Languages 💬</h4>
 <p>
 <img
                 src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;<img
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere%20Pro&labelColor=2f2f5b&logoWidth=15" />&nbsp;
     <img src="https://img.shields.io/badge/%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=black" />&nbsp;
         <img src="https://img.shields.io/badge/-After%20Effects-CF96FD?style=for-the-badge&logo=Adobe-After-Effects&labelColor=393665&logoWidth=15" />
-        </p>
+        </p> -->
       
 <!-- <hr> -->
 <!-- <h4> Most Used 💌</h4>
